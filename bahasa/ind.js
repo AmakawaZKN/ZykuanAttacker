@@ -136,7 +136,7 @@ exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel,
 `}
  
 exports.limitend = (pushname) => {
-	return`*Maaf ${pushname} limit hari ini habis*\n*Hubungi kami* : wa.me/6285706666337\n\n*Note : Kami akan berikan random dari 1-10*`
+	return`*Maaf ${pushname} limit hari ini habis*\n*Hubungi kami* : wa.me/6282133532380\n\n*Note : Kami akan berikan random dari 1-10*`
 }
 
 exports.limitcount = (limitCounts) => {
